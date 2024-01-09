@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "HX8PsfItRvitrx/1rwl9Y2nXPFMmVSRN7ugZ9a/llDBFZXdU5SvzXM23YMAWyQP8aRoibP3GhKQp99oRV94rgg==",
+  "success": true,
+  "projectFilePath": "/Users/michael-anthonypantoja/Desktop/Desktop - Michael-Anthony’s MacBook Air/code /level 2 /homework/PanotjaM -  MiniChallengeTwoToFour - Endpoints/PanotjaM -  MiniChallengeTwoToFour - Endpoints.csproj",
+  "expectedPackageFiles": [
+    "/Users/michael-anthonypantoja/.nuget/packages/microsoft.aspnetcore.openapi/7.0.14/microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
+    "/Users/michael-anthonypantoja/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/michael-anthonypantoja/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/michael-anthonypantoja/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/michael-anthonypantoja/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/michael-anthonypantoja/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/michael-anthonypantoja/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

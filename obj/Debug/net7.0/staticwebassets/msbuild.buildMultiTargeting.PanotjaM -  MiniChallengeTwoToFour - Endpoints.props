@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/PanotjaM -  MiniChallengeTwoToFour - Endpoints.props" />
+</Project>
